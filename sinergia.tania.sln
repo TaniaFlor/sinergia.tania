@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vista.inventario", "vista.inventario\vista.inventario.csproj", "{CE33F7EF-AC4D-4C2C-9001-1BC0CA1CCFDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wapi.inventario", "wapi.inventario\wapi.inventario.csproj", "{4CA42E34-6475-4BD4-A049-43A1EDB8CA5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "entidad.inventario", "entidad.inventario\entidad.inventario.csproj", "{23152C58-83B7-4B24-9FA1-079C912338DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE33F7EF-AC4D-4C2C-9001-1BC0CA1CCFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE33F7EF-AC4D-4C2C-9001-1BC0CA1CCFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE33F7EF-AC4D-4C2C-9001-1BC0CA1CCFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE33F7EF-AC4D-4C2C-9001-1BC0CA1CCFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA42E34-6475-4BD4-A049-43A1EDB8CA5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA42E34-6475-4BD4-A049-43A1EDB8CA5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA42E34-6475-4BD4-A049-43A1EDB8CA5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA42E34-6475-4BD4-A049-43A1EDB8CA5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23152C58-83B7-4B24-9FA1-079C912338DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23152C58-83B7-4B24-9FA1-079C912338DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23152C58-83B7-4B24-9FA1-079C912338DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23152C58-83B7-4B24-9FA1-079C912338DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
